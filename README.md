@@ -36,6 +36,11 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 - [2019 개발자 회고록](https://k-elon.tistory.com/35) (개발자 최민섭)
 - [어느 안드로이드 개발자의 두서없는 2019년 회고](https://devvkkid.tistory.com/134) (개발자 손종국)
 
+🖼 현장사진
+
+<img src="https://scontent.ficn6-1.fna.fbcdn.net/v/t1.0-9/81477474_2491530217770459_1476762549826355200_o.jpg?_nc_cat=111&ccb=2&_nc_sid=825194&_nc_ohc=YGz3KsfLCLAAX9qqEg-&_nc_ht=scontent.ficn6-1.fna&oh=55e8beb6e7fb032a65f232122bef4781&oe=601B8820" width="450px" title="2020년 회고 현장"></img>
+
+
 <br>
 
 ### 2020년 회고
@@ -56,3 +61,6 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 - [2020 획5](https://www.notion.so/hyeday/2020-5-967f59da260a4ceca8f375b1db6b92a9) (디자이너 장혜연)
 - [굿바이, 2020!](https://brillethan.tistory.com/13) (개발자 김준희)
 
+🖼 현장사진
+
+<img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2020.jpg?raw=true" width="450px" title="2020년 회고 현장"></img>
