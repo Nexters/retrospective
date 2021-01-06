@@ -26,6 +26,33 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 
 ### 2019년 회고
 
+👫 참여자 : 5명
+
+🏢 장소 : 선릉 SW마에스트로
+
+🗓 날짜 : 2020년 1월 9일 오후 7시 30분
+
 - [2019년 회고록](https://linsaeng.tistory.com/34) (개발자 여정승)
 - [2019 개발자 회고록](https://k-elon.tistory.com/35) (개발자 최민섭)
 - [어느 안드로이드 개발자의 두서없는 2019년 회고](https://devvkkid.tistory.com/134) (개발자 손종국)
+
+<br>
+
+### 2020년 회고
+
+👫 참여자 : 10명
+
+🏢 장소 : 온라인 - Google Meet
+
+🗓 날짜 : 2020년 12월 18일 오후 7시 30분
+
+😆 비고 : 끝나고 어몽어스 했음
+
+- [어느 안드로이드 개발자의 두서없는 2020년 회고](https://devvkkid.tistory.com/181) (개발자 손종국)
+- [2020년 회고록](https://linsaeng.tistory.com/38) (개발자 여정승)
+- [2020년 어느 멍청한 개발자의 회고](https://flymogi.tistory.com/entry/2020년-어느-멍청한-개발자의-회고) (개발자 김헌진)
+- [2020년 회고](https://www.notion.so/2020-acfffe659b864d9a900743b9b301f3b2) (디자이너 허지인)
+- [테스 형, 올해 인생이 왜 이래?](https://makemethink.tistory.com/193) (개발자 왕소정)
+- [2020 획5](https://www.notion.so/hyeday/2020-5-967f59da260a4ceca8f375b1db6b92a9) (디자이너 장혜연)
+- [굿바이, 2020!](https://brillethan.tistory.com/13) (개발자 김준희)
+
