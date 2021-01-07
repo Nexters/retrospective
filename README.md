@@ -62,7 +62,7 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 - [테스 형, 올해 인생이 왜 이래?](https://makemethink.tistory.com/193) (개발자 도던)
 - [2020 획5](https://www.notion.so/hyeday/2020-5-967f59da260a4ceca8f375b1db6b92a9) (디자이너 장혜연)
 - [굿바이, 2020!](https://brillethan.tistory.com/13) (개발자 김준희)
-- [GOOD BY👋, 나에겐 너무나 소중했던 2020](https://wishjinit.tistory.com/18) (개발자 진유진)
+- [GOOD BYE👋, 나에겐 너무나 소중했던 2020](https://wishjinit.tistory.com/18) (개발자 진유진)
 
 🖼 현장사진
 
