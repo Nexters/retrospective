@@ -59,7 +59,7 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 - [2020년 회고록](https://linsaeng.tistory.com/38) (개발자 여정승)
 - [2020년 어느 멍청한 개발자의 회고](https://flymogi.tistory.com/entry/2020년-어느-멍청한-개발자의-회고) (개발자 김헌진)
 - [2020년 회고](https://www.notion.so/2020-acfffe659b864d9a900743b9b301f3b2) (디자이너 허지인)
-- [테스 형, 올해 인생이 왜 이래?](https://makemethink.tistory.com/193) (개발자 )
+- [테스 형, 올해 인생이 왜 이래?](https://makemethink.tistory.com/193) (개발자 도던)
 - [2020 획5](https://www.notion.so/hyeday/2020-5-967f59da260a4ceca8f375b1db6b92a9) (디자이너 장혜연)
 - [굿바이, 2020!](https://brillethan.tistory.com/13) (개발자 김준희)
 
