@@ -38,7 +38,7 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 
 🖼 현장사진
 
-<img src="https://scontent.ficn6-1.fna.fbcdn.net/v/t1.0-9/81477474_2491530217770459_1476762549826355200_o.jpg?_nc_cat=111&ccb=2&_nc_sid=825194&_nc_ohc=YGz3KsfLCLAAX9qqEg-&_nc_ht=scontent.ficn6-1.fna&oh=55e8beb6e7fb032a65f232122bef4781&oe=601B8820" width="450px" title="2020년 회고 현장"></img>
+<img src="https://github.com/Nexters/retrospective/blob/master/etrospective_2019.png?raw=true" width="450px" title="2019년 회고 현장"></img>
 
 
 <br>
