@@ -87,8 +87,8 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
   - [2021 상반기 TMI 회고](https://wirehaired-author-fc3.notion.site/2021-TMI-66796d568bbb416e99ebc0d3b1b614eb)(디자이너 이지현)
   - [2021년 상반기 회고](https://www.leejiwonn.dev/7105ae94-9bfe-4f7c-b296-a075c669afcc)(개발자 이지원)
   - [서른 즈음에](https://brunch.co.kr/@gg2/13)(디자이너 허지인)
-  - [2021 상반기 회고] 29살의 절반이 지나갔다(https://everybody-yeah.tistory.com/34)(디자이너 최다예)
-  - 어떤 개발자의 (늦은) 2분기 보고서(https://devvkkid.tistory.com/222)(개발자 손종국)
+  - [2021 상반기 회고:29살의 절반이 지나갔다](https://everybody-yeah.tistory.com/34)(디자이너 최다예)
+  - [어떤 개발자의 (늦은) 2분기 보고서](https://devvkkid.tistory.com/222)(개발자 손종국)
 
 
 
