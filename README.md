@@ -68,8 +68,9 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 
 <img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2020.jpg?raw=true" width="450px" title="2020년 회고 현장"></img>
 
-< BR >
-< BR >
+
+<br>
+<br>
 
 ## 2021년 회고
 
@@ -91,5 +92,5 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 
 
 
-< BR >
-< BR >
+<br>
+<br>
