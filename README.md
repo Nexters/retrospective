@@ -67,3 +67,32 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 🖼 현장사진
 
 <img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2020.jpg?raw=true" width="450px" title="2020년 회고 현장"></img>
+
+< BR >
+< BR >
+
+## 2021년 회고
+
+📍 2021년 7월 18일부로 '지속 가능한 회고 모임' 스터디가 생성되었습니다. 
+
+👫 참여자 : 13명
+
+🏢 장소 : 온라인 - Zoom 으로 비정기적 회고 모임 진행
+
+🗓 날짜 : 2021년 내 월별, 상/하반기별, 연별 진행
+
+
+ ⚪️ 상반기 회고
+  - [2021 상반기 TMI 회고](https://wirehaired-author-fc3.notion.site/2021-TMI-66796d568bbb416e99ebc0d3b1b614eb)(디자이너 이지현)
+  - [2021년 상반기 회고](https://www.leejiwonn.dev/7105ae94-9bfe-4f7c-b296-a075c669afcc)(개발자 이지원)
+  - [서른 즈음에](https://brunch.co.kr/@gg2/13)(디자이너 허지인)
+  - [2021 상반기 회고] 29살의 절반이 지나갔다(https://everybody-yeah.tistory.com/34)(디자이너 최다예)
+  - 어떤 개발자의 (늦은) 2분기 보고서(https://devvkkid.tistory.com/222)(개발자 손종국)
+
+
+
+
+😆 비고 : 끝나고 어몽어스 했음
+  
+  
+🖼 현장사진 
