@@ -116,7 +116,7 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
   - [벌써 그리운 반짝반짝 2021년](https://brunch.co.kr/@gg2/16)(디자이너 허지인)
   - [Adios 2021](https://devowen.com/433)(개발자 오원종)
   - [2021년 어느 모자란 개발자의 회고](https://flymogi.tistory.com/77)(개발자 김헌진)
-
+  - [어느 개발자의 두서없는 2021년 회고](https://devvkkid.tistory.com/239)(개발자 손종국)
 
 
 <br>
