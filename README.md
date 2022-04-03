@@ -83,7 +83,7 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 
 <br>
 
-⚪️ 상반기 회고
+### ⚪️ 상반기 회고
  
 > 🏢 장소 : 온라인 비대면으로 진행
 >
@@ -98,7 +98,7 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 
 <br>
 
-⚪️ 하반기 및 2021년 회고 
+### ⚪️ 하반기 및 2021년 회고 
 
 > 🏢 장소 : 온라인 비대면으로 진행
 >
@@ -116,6 +116,24 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
   - [2021년 어느 모자란 개발자의 회고](https://flymogi.tistory.com/77)(개발자 김헌진)
   - [어느 개발자의 두서없는 2021년 회고](https://devvkkid.tistory.com/239)(개발자 손종국)
 
+<img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2021.png?raw=true" width="450px" title="2021년 회고 현장"></img>
 
+
+<br>
+<br>
+
+## 2021년 회고
+
+### ⚪️ 1분기 회고
+
+> 🏢 장소 : 온라인 비대면으로 진행
+>
+> 🗓 날짜 : 2022년 4월 1일 금요일 오후 8시 (2시간~)
+>
+> 👤 참석 : 10명 신청 중 8명 참석
+
+<img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2022__1.png?raw=true" width="450px" title="2022년 1분기 회고 현장"></img>
+
+<br>
 <br>
 <br>
