@@ -132,7 +132,7 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 >
 > 👤 참석 : 10명 신청 중 8명 참석
 
-<img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2022_1.png.png?raw=true" width="450px" title="2022년 1분기 회고 현장"></img>
+<img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2022_1.png?raw=true" width="450px" title="2022년 1분기 회고 현장"></img>
 
 <br>
 <br>
