@@ -24,6 +24,15 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 
 <br>
 
+### 다른 곳에 있는 회고 모음
+
+- [개발자 회고 모음](https://github.com/oaksong/developers-retrospective?fbclid=IwAR2J-a8Lugs5Nxmt9bqXg0Q7CXRSVjuTXLqdD2JHme4OoqmeMeQ1DhAoViY)
+- [글또 5기 2020년 회고 모음](https://github.com/geultto/geultto-contents/issues/1)
+- [글또 6기 2020년 회고 모음](https://github.com/geultto/geultto-contents/issues/2)
+
+
+<br>
+
 ## [ 2019년 회고 ]
 
 👫 참여자 : 5명
@@ -131,6 +140,8 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 > 🗓 날짜 : 2022년 4월 1일 금요일 오후 8시 (2시간~)
 >
 > 👤 참석 : 10명 신청 중 8명 참석
+
+  - [개버릇 남 못 준 개발자의 2022년 1분기 회고](https://devvkkid.tistory.com/250)(개발자 손종국)
 
 <img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2022_1.png?raw=true" width="450px" title="2022년 1분기 회고 현장"></img>
 
