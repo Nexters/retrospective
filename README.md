@@ -1,7 +1,9 @@
 
-<img src="https://github.com/Nexters/retrospective/blob/master/nexters_logo.png" width="200" />
+<img src="https://github.com/Nexters/retrospective/blob/master/nexters_logo.png" width="200" /> 
 
 # NEXTERS 회원들의 회고
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNexters%2Fretrospective&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [연합동아리 NEXTERS](http://teamnexters.com/ "연합동아리 NEXTERS")는 IT 생태계의 주인공인 개발자와 디자이너를 위한 모임입니다.
 재능있는 개발자와 디자이너가 함께 모여 자유로운 분위기에서 어울리고 도움을 주고받으며 협업을 통해 원하는 서비스를 만듭니다.
