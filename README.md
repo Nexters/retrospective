@@ -26,6 +26,12 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 
 <br>
 
+### 선언효과
+
+선언효과 라는게 있어요. 주변인들에게 자신의 생각을 공유하면 그 생각이 현실이 되는 효과인데요. 새해에 회고를 하고 계획을 하고 다짐을 했던 분들이 있을거에요. 그리고 그게 제대로 지켜지지 않았을 수 있습니다. 늦지 않게 중간중간 회고를 하고 다시 주변 사람들에게 선언 을 한다면 올해 초에 다짐했던게 현실에 조금 더 가까워 질거에요.
+
+<br>
+
 ### 다른 곳에 있는 회고 모음
 
 - [개발자 회고 모음](https://github.com/oaksong/developers-retrospective?fbclid=IwAR2J-a8Lugs5Nxmt9bqXg0Q7CXRSVjuTXLqdD2JHme4OoqmeMeQ1DhAoViY)
