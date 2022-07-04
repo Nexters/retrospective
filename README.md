@@ -166,7 +166,7 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 >
 > 👤 참석 : 
 
-  - [카카오를 퇴사하며](https://minkj1992.github.io)(개발자 제민욱)
+  - [카카오를 퇴사하며](https://minkj1992.github.io/2022_first_half)(개발자 제민욱)
   - [2022년 상반기 중간회고](https://www.notion.so/2022-0ac5d71436b546c0b52d0ec6e7f46586)(디자이너 고유진)
 
 
