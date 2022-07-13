@@ -169,5 +169,5 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
   - [카카오를 퇴사하며](https://minkj1992.github.io/2022_first_half)(개발자 제민욱)
   - [2022년 상반기 중간회고](https://adventurous-fluorine-d96.notion.site/2022-0ac5d71436b546c0b52d0ec6e7f46586)(디자이너 고유진)
   - [2022년 상반기 회고](https://charmed-wanderer-9d6.notion.site/2022-882e6f58b9ed412f8c9b9698be8601c1)(디자이너 문보은)
-
+  - [인생 디버깅이 잘 안되는 개발자의 2022년 2분기 회고](https://devvkkid.tistory.com/260)(개발자 손종국)
 
