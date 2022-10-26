@@ -1,11 +1,10 @@
-
-<img src="https://github.com/Nexters/retrospective/blob/master/nexters_logo.png" width="200" /> 
+<img src="https://github.com/Nexters/retrospective/blob/master/nexters_logo.png" width="200" />
 
 # NEXTERS 회원들의 회고
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNexters%2Fretrospective&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[연합동아리 NEXTERS](http://teamnexters.com/ "연합동아리 NEXTERS")는 IT 생태계의 주인공인 개발자와 디자이너를 위한 모임입니다.
+[연합동아리 NEXTERS](http://teamnexters.com/ '연합동아리 NEXTERS')는 IT 생태계의 주인공인 개발자와 디자이너를 위한 모임입니다.
 재능있는 개발자와 디자이너가 함께 모여 자유로운 분위기에서 어울리고 도움을 주고받으며 협업을 통해 원하는 서비스를 만듭니다.
 
 NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활동하고 있습니다.
@@ -38,7 +37,6 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 - [글또 5기 2020년 회고 모음](https://github.com/geultto/geultto-contents/issues/1)
 - [글또 6기 2020년 회고 모음](https://github.com/geultto/geultto-contents/issues/2)
 
-
 <br>
 
 ## [ 2019년 회고 ]
@@ -57,10 +55,8 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 
 <img src="https://github.com/Nexters/retrospective/blob/master/etrospective_2019.png?raw=true" width="450px" title="2019년 회고 현장"></img>
 
-
 <br>
 <br>
-
 
 ## [ 2020년 회고 ]
 
@@ -85,13 +81,13 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 
 <img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2020.jpg?raw=true" width="450px" title="2020년 회고 현장"></img>
 
-
 <br>
 <br>
 
 ## [ 2021년 회고 ]
 
 📍 2021년 7월 18일부로 '지속 가능한 회고 모임' 스터디가 생성되었습니다. (슬랙 채널)
+
 ```
 👫 스터디 구성원 : 13명 (회고 모임은 스터디 구성원이 아니더라도 참여가 가능하다.)
 🏢 장소 : 온라인 - Zoom 으로 비정기적 회고 모임 진행. 상황에 따라 오프라인 진행도 가능
@@ -101,21 +97,20 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 <br>
 
 ### 👉 상반기 회고
- 
+
 > 🏢 장소 : 온라인 비대면으로 진행
 >
 > 🗓 날짜 : 2021년 7월 18일 오후 1시
 
-  - [2021 상반기 TMI 회고](https://wirehaired-author-fc3.notion.site/2021-TMI-66796d568bbb416e99ebc0d3b1b614eb)(디자이너 이지현)
-  - [2021년 상반기 회고](https://www.leejiwonn.dev/7105ae94-9bfe-4f7c-b296-a075c669afcc)(개발자 이지원)
-  - [서른 즈음에](https://brunch.co.kr/@gg2/13)(디자이너 허지인)
-  - [2021 상반기 회고:29살의 절반이 지나갔다](https://everybody-yeah.tistory.com/34)(디자이너 최다예)
-  - [어떤 개발자의 (늦은) 2분기 보고서](https://devvkkid.tistory.com/222)(개발자 손종국)
-
+- [2021 상반기 TMI 회고](https://wirehaired-author-fc3.notion.site/2021-TMI-66796d568bbb416e99ebc0d3b1b614eb)(디자이너 이지현)
+- [2021년 상반기 회고](https://www.leejiwonn.dev/7105ae94-9bfe-4f7c-b296-a075c669afcc)(개발자 이지원)
+- [서른 즈음에](https://brunch.co.kr/@gg2/13)(디자이너 허지인)
+- [2021 상반기 회고:29살의 절반이 지나갔다](https://everybody-yeah.tistory.com/34)(디자이너 최다예)
+- [어떤 개발자의 (늦은) 2분기 보고서](https://devvkkid.tistory.com/222)(개발자 손종국)
 
 <br>
 
-### 👉 하반기 및 2021년 회고 
+### 👉 하반기 및 2021년 회고
 
 > 🏢 장소 : 온라인 비대면으로 진행
 >
@@ -125,16 +120,15 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 >
 > ✍ 기타 : 모임 당일 회고를 다 쓰지 못한 사람들과 회고 보충 모임을 진행 (1월 1일 오후 8시)
 
-  - [2021년을 보내며](https://developer-munny.tistory.com/8)(개발자 안경문)
-  - [2021 개발 회고](https://improvisation.tistory.com/entry/2021-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0)(개발자 안유림)
-  - [2021년에 정리해보는 회고](https://velog.io/@ricky_0_k/2021%EB%85%84%EC%97%90-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%B3%B4%EB%8A%94-%ED%9A%8C%EA%B3%A0)(개발자 이상우)
-  - [벌써 그리운 반짝반짝 2021년](https://brunch.co.kr/@gg2/16)(디자이너 허지인)
-  - [Adios 2021](https://devowen.com/433)(개발자 오원종)
-  - [2021년 어느 모자란 개발자의 회고](https://flymogi.tistory.com/77)(개발자 김헌진)
-  - [어느 개발자의 두서없는 2021년 회고](https://devvkkid.tistory.com/239)(개발자 손종국)
+- [2021년을 보내며](https://developer-munny.tistory.com/8)(개발자 안경문)
+- [2021 개발 회고](https://improvisation.tistory.com/entry/2021-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0)(개발자 안유림)
+- [2021년에 정리해보는 회고](https://velog.io/@ricky_0_k/2021%EB%85%84%EC%97%90-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%B3%B4%EB%8A%94-%ED%9A%8C%EA%B3%A0)(개발자 이상우)
+- [벌써 그리운 반짝반짝 2021년](https://brunch.co.kr/@gg2/16)(디자이너 허지인)
+- [Adios 2021](https://devowen.com/433)(개발자 오원종)
+- [2021년 어느 모자란 개발자의 회고](https://flymogi.tistory.com/77)(개발자 김헌진)
+- [어느 개발자의 두서없는 2021년 회고](https://devvkkid.tistory.com/239)(개발자 손종국)
 
 <img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2021.png?raw=true" width="450px" title="2021년 회고 현장"></img>
-
 
 <br>
 <br>
@@ -149,8 +143,8 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 >
 > 👤 참석 : 10명 신청 중 8명 참석
 
-  - [개버릇 남 못 준 개발자의 2022년 1분기 회고](https://devvkkid.tistory.com/250)(개발자 손종국)
-  - [2022년 1분기 회고](https://inhyuck.notion.site/2022-1-33463075a9c146ed87b8a36eddd8e231)(개발자 최인혁)
+- [개버릇 남 못 준 개발자의 2022년 1분기 회고](https://devvkkid.tistory.com/250)(개발자 손종국)
+- [2022년 1분기 회고](https://inhyuck.notion.site/2022-1-33463075a9c146ed87b8a36eddd8e231)(개발자 최인혁)
 
 <img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2022_1.png?raw=true" width="450px" title="2022년 1분기 회고 현장"></img>
 
@@ -166,10 +160,10 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 >
 > 👤 참석 : 10명 신청 중 8명 참석
 
-  - [카카오를 퇴사하며](https://minkj1992.github.io/2022_first_half)(개발자 제민욱)
-  - [2022년 상반기 중간회고](https://adventurous-fluorine-d96.notion.site/2022-0ac5d71436b546c0b52d0ec6e7f46586)(디자이너 고유진)
-  - [2022년 상반기 회고](https://charmed-wanderer-9d6.notion.site/2022-882e6f58b9ed412f8c9b9698be8601c1)(디자이너 문보은)
-  - [인생 디버깅이 잘 안되는 개발자의 2022년 2분기 회고](https://devvkkid.tistory.com/260)(개발자 손종국)
+- [카카오를 퇴사하며](https://minkj1992.github.io/2022_first_half)(개발자 제민욱)
+- [2022년 상반기 중간회고](https://adventurous-fluorine-d96.notion.site/2022-0ac5d71436b546c0b52d0ec6e7f46586)(디자이너 고유진)
+- [2022년 상반기 회고](https://charmed-wanderer-9d6.notion.site/2022-882e6f58b9ed412f8c9b9698be8601c1)(디자이너 문보은)
+- [인생 디버깅이 잘 안되는 개발자의 2022년 2분기 회고](https://devvkkid.tistory.com/260)(개발자 손종국)
 
 <br>
 <br>
@@ -183,5 +177,5 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 >
 > 👤 참석 : 6명 신청 중 4명 참석
 
-  - [몸도 개발도 벌크업중인 개발자의 2022년 3분기 회고](https://devvkkid.tistory.com/277)(개발자 손종국)
-
+- [몸도 개발도 벌크업중인 개발자의 2022년 3분기 회고](https://devvkkid.tistory.com/277)(개발자 손종국)
+- [[2022 3분기 회고] 사업을 정리하다. 취업을 하다.](https://leonkong.cc/15125930-54cd-528f-a6a0-58739e99a643)(개발자 공채원)
