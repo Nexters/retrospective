@@ -146,7 +146,7 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 - [개버릇 남 못 준 개발자의 2022년 1분기 회고](https://devvkkid.tistory.com/250)(개발자 손종국)
 - [2022년 1분기 회고](https://inhyuck.notion.site/2022-1-33463075a9c146ed87b8a36eddd8e231)(개발자 최인혁)
 
-<img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2022_1.png?raw=true" width="450px" title="2022년 1분기 회고 현장"></img>
+<img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2022_q_1.png?raw=true" width="450px" title="2022년 1분기 회고 현장"></img>
 
 <br>
 <br>
@@ -179,3 +179,18 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 
 - [몸도 개발도 벌크업중인 개발자의 2022년 3분기 회고](https://devvkkid.tistory.com/277)(개발자 손종국)
 - [[2022 3분기 회고] 사업을 정리하다. 취업을 하다.](https://leonkong.cc/15125930-54cd-528f-a6a0-58739e99a643)(개발자 공채원)
+
+<br>
+<br>
+<br>
+
+### 👉 2022년 회고
+
+> 🏢 장소 : 해시스모임공간 강남역
+>
+> 🗓 날짜 : 2022년 12월 29일 목요일 오후 7시 00분 (3시간~)
+>
+> 👤 참석 : 19명 신청 중 4명 참석
+
+<img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2022_1.jpg?raw=true" width="200px" title="2022년 회고 현장"></img>
+<img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2022_2.jpg?raw=true" width="200px" title="2022년 회고 현장"></img>
