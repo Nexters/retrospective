@@ -1,4 +1,4 @@
-<img src="https://github.com/Nexters/retrospective/blob/master/nexters_logo.png" width="200" />
+<img src="https://github.com/Nexters/retrospective/blob/master/image/nexters_logo.png" width="200" />
 
 # NEXTERS 회원들의 회고
 
@@ -53,7 +53,7 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 
 🖼 현장사진
 
-<img src="https://github.com/Nexters/retrospective/blob/master/etrospective_2019.png?raw=true" width="450px" title="2019년 회고 현장"></img>
+<img src="https://github.com/Nexters/retrospective/blob/master/image/etrospective_2019.png?raw=true" width="450px" title="2019년 회고 현장"></img>
 
 <br>
 <br>
@@ -79,7 +79,7 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 
 🖼 현장사진
 
-<img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2020.jpg?raw=true" width="450px" title="2020년 회고 현장"></img>
+<img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2020.jpg?raw=true" width="450px" title="2020년 회고 현장"></img>
 
 <br>
 <br>
@@ -128,7 +128,7 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 - [2021년 어느 모자란 개발자의 회고](https://flymogi.tistory.com/77)(개발자 김헌진)
 - [어느 개발자의 두서없는 2021년 회고](https://devvkkid.tistory.com/239)(개발자 손종국)
 
-<img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2021.png?raw=true" width="450px" title="2021년 회고 현장"></img>
+<img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2021.png?raw=true" width="450px" title="2021년 회고 현장"></img>
 
 <br>
 <br>
@@ -146,7 +146,7 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 - [개버릇 남 못 준 개발자의 2022년 1분기 회고](https://devvkkid.tistory.com/250)(개발자 손종국)
 - [2022년 1분기 회고](https://inhyuck.notion.site/2022-1-33463075a9c146ed87b8a36eddd8e231)(개발자 최인혁)
 
-<img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2022_q_1.png?raw=true" width="450px" title="2022년 1분기 회고 현장"></img>
+<img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2022_q_1.png?raw=true" width="450px" title="2022년 1분기 회고 현장"></img>
 
 <br>
 <br>
@@ -192,5 +192,5 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 >
 > 👤 참석 : 19명 신청 중 4명 참석
 
-<img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2022_1.jpg?raw=true" width="200px" title="2022년 회고 현장"></img>
-<img src="https://github.com/Nexters/retrospective/blob/master/retrospective_2022_2.jpg?raw=true" width="200px" title="2022년 회고 현장"></img>
+<img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2022_1.jpg?raw=true" width="200px" title="2022년 회고 현장"></img>
+<img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2022_2.jpg?raw=true" width="200px" title="2022년 회고 현장"></img>
