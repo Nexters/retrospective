@@ -192,5 +192,31 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 >
 > 👤 참석 : 19명 신청 중 4명 참석
 
+- [2022년 어느 부족한 개발자의 회고](https://flymogi.tistory.com/81)(개발자 김헌진)
+- [Adios 2022 (Part 1. 회사편)](https://devowen.com/477)(개발자 오원종)
+- [잘가 2022년~](https://developer-munny.tistory.com/15)(개발자 안경문)
+
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2022_1.jpg?raw=true" width="200px" title="2022년 회고 현장"></img>
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2022_2.jpg?raw=true" width="200px" title="2022년 회고 현장"></img>
+
+<br>
+<br>
+
+## [ 2023년 회고 ]
+
+> 🏢 장소 : 강남 트레바리 스터디룸, 602/603호
+>
+> 🗓 날짜 : 2023년 12월 28일 목요일 오후 7시 00분 ~ 10시 30분
+>
+> 👤 참석 : 31명 신청 중 30명 참석
+> 
+> 🥂 뒷풀이 : 모임 장소에서 12시까지 진행
+
+- [Adios 2023](https://devowen.com/495)(개발자 오원종)
+- [2023년 (진짜) 회고](https://improvisation.tistory.com/entry/2023%EB%85%84-%EC%A7%84%EC%A7%9C-%ED%9A%8C%EA%B3%A0)(개발자 안유림)
+- [2023년 어느 이상한 개발자의 회고](https://flymogi.tistory.com/82)(개발자 김헌진)
+- [2023년 회고](https://developer-munny.tistory.com/16)(개발자 안경문)
+
+
+<img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2022_1.jpg?raw=true" width="200px" title="2023년 회고 현장"></img>
+<img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2022_2.jpg?raw=true" width="200px" title="2023년 회고 현장"></img>
