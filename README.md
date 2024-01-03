@@ -222,14 +222,11 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_11.jpg?raw=true" width="200px" title="2023년 회고 작성중"></img>
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_10.jpg?raw=true" width="200px" title="2023년 회고 작성중"></img>
 
-
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_03.jpg?raw=true" width="300px" title="2023년 회고 - 설문 리포트"></img>
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_04.jpg?raw=true" width="300px" title="2023년 회고 공유"></img>
 
-
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_12.jpg?raw=true" width="300px" title="2023년 회고 공유"></img>
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_01.jpg?raw=true" width="300px" title="2023년 회고 - 뒷풀이"></img>
-
 
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_07.jpg?raw=true" width="150px" title="2023년 회고 - 설문 리포트"></img>
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_06.jpg?raw=true" width="150px" title="2023년 회고 공유"></img>
