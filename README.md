@@ -218,6 +218,7 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 - [2023년 회고](https://developer-munny.tistory.com/16)(개발자 안경문)
 - [나의 2023, 1년차 개발자편 CREDIT.](https://velog.io/@xi_uni/%EB%82%98%EC%9D%98-2023-1%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%ED%8E%B8-CREDIT)(개발자 최시운)
 - [2023 회고 : 졸업과 취업, 부딪히고 깨지고 살아남기](https://sinclairstudio.tistory.com/597)(개발자 우민지)
+- [코코종의 2023 회고](https://fluffy-brie-4fd.notion.site/2023-0b41ec27875c4e8c9335f770f618388a)(개발자 윤여종)
 
 
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_09.jpg?raw=true" width="200px" title="2023년 회고 작성중"></img>
