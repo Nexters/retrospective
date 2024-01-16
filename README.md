@@ -213,12 +213,14 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 > 🥂 뒷풀이 : 모임 장소에서 12시까지 진행
 
 - [Adios 2023](https://devowen.com/495)(개발자 오원종)
+- [백승현의 2023 회고](https://davebaek.notion.site/2023-8471a62d432e4e6b81c6e49a27c35538)(디자이너 백승현)
 - [2023년 (진짜) 회고](https://improvisation.tistory.com/entry/2023%EB%85%84-%EC%A7%84%EC%A7%9C-%ED%9A%8C%EA%B3%A0)(개발자 안유림)
 - [2023년 어느 이상한 개발자의 회고](https://flymogi.tistory.com/82)(개발자 김헌진)
 - [2023년 회고](https://developer-munny.tistory.com/16)(개발자 안경문)
 - [나의 2023, 1년차 개발자편 CREDIT.](https://velog.io/@xi_uni/%EB%82%98%EC%9D%98-2023-1%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%ED%8E%B8-CREDIT)(개발자 최시운)
 - [2023 회고 : 졸업과 취업, 부딪히고 깨지고 살아남기](https://sinclairstudio.tistory.com/597)(개발자 우민지)
 - [코코종의 2023 회고](https://fluffy-brie-4fd.notion.site/2023-0b41ec27875c4e8c9335f770f618388a)(개발자 윤여종)
+- [2023 회고록]([https://fluffy-brie-4fd.notion.site/2023-0b41ec27875c4e8c9335f770f618388a](https://1ilsang.dev/posts/retrospect/2023))(개발자 이상철)
 
 
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_09.jpg?raw=true" width="200px" title="2023년 회고 작성중"></img>
