@@ -222,6 +222,8 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 - [코코종의 2023 회고](https://fluffy-brie-4fd.notion.site/2023-0b41ec27875c4e8c9335f770f618388a)(개발자 윤여종)
 - [2023 회고록](https://1ilsang.dev/posts/retrospect/2023)(개발자 이상철)
 
+> [2023 회고모임 통계 시각화 보기](./2023/시각화.pdf)
+
 
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_09.jpg?raw=true" width="200px" title="2023년 회고 작성중"></img>
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_11.jpg?raw=true" width="200px" title="2023년 회고 작성중"></img>
