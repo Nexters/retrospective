@@ -239,3 +239,19 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_06.jpg?raw=true" width="150px" title="2023년 회고 공유"></img>
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_05.jpg?raw=true" width="150px" title="2023년 회고 공유"></img>
 <img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2023_02.jpg?raw=true" width="150px" title="2023년 회고 - 뒷풀이"></img>
+
+<br>
+<br>
+
+## [ 2024년 회고 ]
+
+> 🏢 장소 : 강남 리네트워크 (서울 강남구 테헤란로6길 47 5층)
+>
+> 🗓 날짜 : 2024년 12월 19일 목요일 오후 7시 00분 ~ 10시 00분
+>
+> 👤 참석 : 20명 신청 중 xx명 참석
+> 
+> 🥂 뒷풀이 : 브롱스 강남점 (10시~)
+
+<br>
+<br>
