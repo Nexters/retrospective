@@ -249,9 +249,18 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 >
 > 🗓 날짜 : 2024년 12월 19일 목요일 오후 7시 00분 ~ 10시 00분
 >
-> 👤 참석 : 20명 신청 중 xx명 참석
+> 👤 참석 : 20명 신청 중 20명 참석
 > 
 > 🥂 뒷풀이 : 브롱스 강남점 (10시~)
+
+- [Adios 2024](https://devowen.com/504)(개발자 오원종)
+- [2024년 회고](https://bananajeong.tistory.com/1570)(개발자 김나정)
+- [24년 회고](https://dev-youngjun.tistory.com/265)(개발자 박영준)
+- [2024 회고 by Mia](https://maze-scilla-fd9.notion.site/2024-by-Mia-1830ff762989803bbd22c643a30f68a3)(디자이너 최지원)
+
+<img src="https://github.com/user-attachments/assets/16d410d9-9c85-416c-a186-de2805a5d942" width="150px" title="2024년 회고"></img>
+<img src="https://github.com/user-attachments/assets/0a338afa-e40e-4969-ae7e-6e60d3d97811" width="360px" title="2024년 회고"></img>
+<img src="https://github.com/user-attachments/assets/f59b5b88-7aa2-4fa5-91ff-ab873672768d" width="150px" title="2024년 회고 - 뒷풀이"></img>
 
 <br>
 <br>
