@@ -119,7 +119,6 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 > ✍ 기타 : 모임 당일 회고를 다 쓰지 못한 사람들과 회고 보충 모임을 진행 (1월 1일 오후 8시)
 
 - [2021년을 보내며](https://developer-munny.tistory.com/8)(개발자 안경문)
-- [2021 개발 회고](https://improvisation.tistory.com/entry/2021-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0)(개발자 안유림)
 - [2021년에 정리해보는 회고](https://velog.io/@ricky_0_k/2021%EB%85%84%EC%97%90-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%B3%B4%EB%8A%94-%ED%9A%8C%EA%B3%A0)(개발자 이상우)
 - [벌써 그리운 반짝반짝 2021년](https://brunch.co.kr/@gg2/16)(디자이너 허지인)
 - [Adios 2021](https://devowen.com/433)(개발자 오원종)
@@ -212,7 +211,6 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 
 - [Adios 2023](https://devowen.com/495)(개발자 오원종)
 - [백승현의 2023 회고](https://davebaek.notion.site/2023-8471a62d432e4e6b81c6e49a27c35538)(디자이너 백승현)
-- [2023년 (진짜) 회고](https://improvisation.tistory.com/entry/2023%EB%85%84-%EC%A7%84%EC%A7%9C-%ED%9A%8C%EA%B3%A0)(개발자 안유림)
 - [2023년 어느 이상한 개발자의 회고](https://flymogi.tistory.com/82)(개발자 김헌진)
 - [2023년 회고](https://developer-munny.tistory.com/16)(개발자 안경문)
 - [나의 2023, 1년차 개발자편 CREDIT.](https://velog.io/@xi_uni/%EB%82%98%EC%9D%98-2023-1%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%ED%8E%B8-CREDIT)(개발자 최시운)
