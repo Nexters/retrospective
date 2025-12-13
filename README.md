@@ -2,8 +2,6 @@
 
 # NEXTERS 회원들의 회고
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNexters%2Fretrospective&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [연합동아리 NEXTERS](http://teamnexters.com/ '연합동아리 NEXTERS')는 IT 생태계의 주인공인 개발자와 디자이너를 위한 모임입니다.
 재능있는 개발자와 디자이너가 함께 모여 자유로운 분위기에서 어울리고 도움을 주고받으며 협업을 통해 원하는 서비스를 만듭니다.
 
@@ -261,6 +259,19 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 <img src="https://github.com/user-attachments/assets/16d410d9-9c85-416c-a186-de2805a5d942" width="150px" title="2024년 회고"></img>
 <img src="https://github.com/user-attachments/assets/0a338afa-e40e-4969-ae7e-6e60d3d97811" width="360px" title="2024년 회고"></img>
 <img src="https://github.com/user-attachments/assets/f59b5b88-7aa2-4fa5-91ff-ab873672768d" width="150px" title="2024년 회고 - 뒷풀이"></img>
+<br>
+<br>
+
+## [ 2024년 회고 ]
+
+> 🏢 장소 : 로컬호스트Web3 (서울 강남구 논현로105길 13 1층)
+>
+> 🗓 날짜 : 2024년 12월 13일 토요일 오후 4시 20분 ~ 
+>
+> 👤 참석 : 8명 참석
+> 
+> 🥂 NEXTERS Alumnni Night 전에 진행
+
 
 <br>
 <br>
