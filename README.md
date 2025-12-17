@@ -270,9 +270,9 @@ NEXTERS에서는 수도권 인근의 대학생들과 직장인들이 주로 활�
 > 
 > 🥂 NEXTERS Alumnni Night 전에 진행
 
-<img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2025_01.jpg?raw=true" width="150px" title="2025년 회고"></img>
-<img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2025_02.jpg?raw=true" width="360px" title="2025년 회고 - 송년회"></img>
-<img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2025_03.jpeg?raw=true" width="150px" title="2025년 회고"></img>
+<img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2025_01.jpg?raw=true" height="360px" title="2025년 회고"></img>
+<img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2025_02.jpg?raw=true" height="360px" title="2025년 회고 - 송년회"></img>
+<img src="https://github.com/Nexters/retrospective/blob/master/image/retrospective_2025_03.jpeg?raw=true" height="360px" title="2025년 회고"></img>
 
 
 <br>
